@@ -1,0 +1,85 @@
+body{
+    background-color: #DBE2EF;
+}
+
+p{
+    text-align: justify;
+}
+
+h3{
+    font-family: serif; 
+    color: rgb(57, 72, 103);
+}
+
+fieldset{
+    width: 70%;
+    margin: auto;
+    border: 5px outset rgba(193, 202, 218, 0.811);
+}
+
+legend{
+    color: rgb(17, 45, 78);
+    border: 5px outset rgba(193, 202, 218, 0.811);
+    background-color: #ffffff84;
+    background-image: radial-gradient( #DBE2EF);
+
+}
+
+.hl{
+    border: none;
+}
+
+
+body.my{
+    background-color: white;
+}
+
+.home{
+    background-color: white;
+}
+
+.lhome{
+    font-family: serif; 
+    font-size: xxx-large; 
+    color: rgb(57, 72, 103);
+}
+
+a{
+    color: rgb(17, 45, 78);;
+    text-decoration: none;
+}
+
+.dlist{
+    padding-left: 22%;
+}
+
+.hmy{
+    text-align: center;
+    font-family: serif; 
+    font-size: xx-large; 
+    color: rgb(57, 72, 103);
+}
+
+table, th, td{
+    margin: auto;
+    text-align: center;
+    border:1px solid;
+}
+
+tr#wr{
+    background-color: #DBE2EF;
+}
+
+fieldset.sb1{
+    background-image: linear-gradient(to left, #ffffff, #dbe2ef, #c7d4e7, #d0d9e8, #dde1e8, #fcf3d1, #fbeaac, #f9c78adc, #fab561);
+}
+
+fieldset.sb2{
+    background-image: linear-gradient(to right, #ffffff, #dbe2ef, #c7d4e7, #d0d9e8, #dde1e8, #fcf3d1, #fbeaac, #f9c78adc, #fab561);
+}
+
+
+
+footer{
+    color: #112D4E;
+}
